@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Chetabist/OneDrive/Desktop/NepseProject/my-app2/app/page.tsx"],"sourcesContent":["import { Header } from \"@/components/header\";\nimport { SidebarTrigger } from \"@/components/ui/sidebar\";\nimport Image from \"next/image\";\n\nexport default function Home() {\n  return (\n     <>\n        <div>\n          <Header/>\n        </div>\n     </>\n  );\n}\n"],"names":[],"mappings":";;;;;;;;;;;;AAIe,SAAS;IACtB,qBACG;kBACG,cAAA,6VAAC;sBACC,cAAA,6VAAC;;;;;;;;;;;AAIX"}}]
+}

@@ -1,0 +1,2345 @@
+[00:00:03.495] Server  LOG      ✓ Ready in 2.8s
+[00:01:31.570] Server  LOG      ○ Compiling / ...
+[00:01:37.194] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:01:37.194] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:01:37.194] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:01:37.194] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:01:37.194] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:01:37.194] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:01:37.194] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:01:37.194] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:01:37.194] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:01:37.194] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:01:37.194] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:01:37.194] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:11.185] Server  LOG      ✓ Compiled in 367ms
+[00:37:12.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:12.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:12.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:12.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:12.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:12.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:12.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:12.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:12.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:12.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:12.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:12.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:13.432] Server  LOG      ✓ Compiled in 63ms
+[00:37:14.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:14.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:14.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:14.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:14.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:14.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:14.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:14.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:14.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:14.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:14.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:14.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:14.572] Server  LOG      ✓ Compiled in 55ms
+[00:37:15.039] Browser ERROR   uncaughtError: TypeError: Failed to construct 'Image': Please use the 'new' operator, this DOM object constructor cannot be called as a function.
+[00:37:19.825] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:37:19.836] Server  LOG      ✓ Compiled in 45ms
+[00:37:22.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:22.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:22.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:22.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:22.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:22.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:22.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:22.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:22.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:22.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:22.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:22.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:22.800] Server  LOG      ✓ Compiled in 432ms
+[00:37:23.130] Browser ERROR   ./components/section3/browser-states.tsx:44:17
+Parsing ecmascript source code failed
+  42 |                   {/* <span className="text-white text-xs font-bold">{browser.name.charAt(0)}</span> */}
+  43 |                   <i
+> 44 |                 </div>
+     |                 ^
+  45 |                 <span className="text-sm sm:text-base font-medium truncate">{browser.name}</span>
+  46 |               </div>
+  47 |               <div className="flex items-center gap-2 sm:gap-4 ml-10 sm:ml-0">
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:37:23.130] Browser ERROR   ./components/section3/browser-states.tsx:44:18
+Parsing ecmascript source code failed
+  42 |                   {/* <span className="text-white text-xs font-bold">{browser.name.charAt(0)}</span> */}
+  43 |                   <i
+> 44 |                 </div>
+     |                  ^^^^^
+  45 |                 <span className="text-sm sm:text-base font-medium truncate">{browser.name}</span>
+  46 |               </div>
+  47 |               <div className="flex items-center gap-2 sm:gap-4 ml-10 sm:ml-0">
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:24.101] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:25.107] Server  LOG      ✓ Compiled in 38ms
+[00:37:26.031] Browser ERROR   uncaughtError: TypeError: Failed to construct 'Image': Please use the 'new' operator, this DOM object constructor cannot be called as a function.
+[00:37:27.703] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:37:27.866] Server  LOG      ✓ Compiled in 36ms
+[00:37:29.205] Server  LOG      ✓ Compiled in 53ms
+[00:37:30.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:30.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:30.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:30.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:30.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:30.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:30.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:30.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:30.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:30.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:30.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:30.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:37:30.039] Browser ERROR   ./components/section3/browser-states.tsx:44:17
+Parsing ecmascript source code failed
+  42 |                   {/* <span className="text-white text-xs font-bold">{browser.name.charAt(0)}</span> */}
+  43 |                   <
+> 44 |                 </div>
+     |                 ^
+  45 |                 <span className="text-sm sm:text-base font-medium truncate">{browser.name}</span>
+  46 |               </div>
+  47 |               <div className="flex items-center gap-2 sm:gap-4 ml-10 sm:ml-0">
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:37:30.039] Browser ERROR   ./components/section3/browser-states.tsx:44:18
+Parsing ecmascript source code failed
+  42 |                   {/* <span className="text-white text-xs font-bold">{browser.name.charAt(0)}</span> */}
+  43 |                   <
+> 44 |                 </div>
+     |                  ^^^^^
+  45 |                 <span className="text-sm sm:text-base font-medium truncate">{browser.name}</span>
+  46 |               </div>
+  47 |               <div className="flex items-center gap-2 sm:gap-4 ml-10 sm:ml-0">
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:37:30.039] Browser ERROR   ./components/section3/browser-states.tsx:44:17
+Parsing ecmascript source code failed
+  42 |                   {/* <span className="text-white text-xs font-bold">{browser.name.charAt(0)}</span> */}
+  43 |                   <
+> 44 |                 </div>
+     |                 ^
+  45 |                 <span className="text-sm sm:text-base font-medium truncate">{browser.name}</span>
+  46 |               </div>
+  47 |               <div className="flex items-center gap-2 sm:gap-4 ml-10 sm:ml-0">
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:37:30.039] Browser ERROR   ./components/section3/browser-states.tsx:44:18
+Parsing ecmascript source code failed
+  42 |                   {/* <span className="text-white text-xs font-bold">{browser.name.charAt(0)}</span> */}
+  43 |                   <
+> 44 |                 </div>
+     |                  ^^^^^
+  45 |                 <span className="text-sm sm:text-base font-medium truncate">{browser.name}</span>
+  46 |               </div>
+  47 |               <div className="flex items-center gap-2 sm:gap-4 ml-10 sm:ml-0">
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:37:31.034] Browser ERROR   ./components/section3/browser-states.tsx:44:17
+Parsing ecmascript source code failed
+  42 |                   {/* <span className="text-white text-xs font-bold">{browser.name.charAt(0)}</span> */}
+  43 |                   <I
+> 44 |                 </div>
+     |                 ^
+  45 |                 <span className="text-sm sm:text-base font-medium truncate">{browser.name}</span>
+  46 |               </div>
+  47 |               <div className="flex items-center gap-2 sm:gap-4 ml-10 sm:ml-0">
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:37:31.034] Browser ERROR   ./components/section3/browser-states.tsx:44:18
+Parsing ecmascript source code failed
+  42 |                   {/* <span className="text-white text-xs font-bold">{browser.name.charAt(0)}</span> */}
+  43 |                   <I
+> 44 |                 </div>
+     |                  ^^^^^
+  45 |                 <span className="text-sm sm:text-base font-medium truncate">{browser.name}</span>
+  46 |               </div>
+  47 |               <div className="flex items-center gap-2 sm:gap-4 ml-10 sm:ml-0">
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:37:33.037] Browser ERROR   ./components/section3/browser-states.tsx:44:17
+Parsing ecmascript source code failed
+  42 |                   {/* <span className="text-white text-xs font-bold">{browser.name.charAt(0)}</span> */}
+  43 |                   <Image
+> 44 |                 </div>
+     |                 ^
+  45 |                 <span className="text-sm sm:text-base font-medium truncate">{browser.name}</span>
+  46 |               </div>
+  47 |               <div className="flex items-center gap-2 sm:gap-4 ml-10 sm:ml-0">
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:37:33.037] Browser ERROR   ./components/section3/browser-states.tsx:44:18
+Parsing ecmascript source code failed
+  42 |                   {/* <span className="text-white text-xs font-bold">{browser.name.charAt(0)}</span> */}
+  43 |                   <Image
+> 44 |                 </div>
+     |                  ^^^^^
+  45 |                 <span className="text-sm sm:text-base font-medium truncate">{browser.name}</span>
+  46 |               </div>
+  47 |               <div className="flex items-center gap-2 sm:gap-4 ml-10 sm:ml-0">
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:37:34.980] Server  LOG      ✓ Compiled in 37ms
+[00:37:36.037] Browser ERROR   uncaughtError: TypeError: Failed to construct 'Image': Please use the 'new' operator, this DOM object constructor cannot be called as a function.
+[00:37:38.042] Server  LOG      ✓ Compiled in 39ms
+[00:37:39.042] Browser ERROR   ./components/section3/browser-states.tsx:43:35
+Parsing ecmascript source code failed
+  41 |                 >
+  42 |                   {/* <span className="text-white text-xs font-bold">{browser.name.charAt(0)}</span> */}
+> 43 |                   <Image/></Image>
+     |                                   ^
+> 44 |                 </div>
+     | ^^^^^^^^^^^^^^^^^
+  45 |                 <span className="text-sm sm:text-base font-medium truncate">{browser.name}</span>
+  46 |               </div>
+  47 |               <div className="flex items-center gap-2 sm:gap-4 ml-10 sm:ml-0">
+
+Expected '</', got 'jsx text (
+                )'
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:37:41.878] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:37:42.150] Server  ERROR   C:\Users\Chetabist\OneDrive\Desktop\NepseProject\my-app2\.next\dev\server\chunks\ssr\components_1f5b5f57._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:37:42.156] Server  ERROR    ⨯ ReferenceError: Image is not defined
+[00:37:43.047] Browser ERROR   uncaughtError: TypeError: Failed to construct 'Image': Please use the 'new' operator, this DOM object constructor cannot be called as a function.
+[00:38:24.082] Server  LOG      ✓ Compiled in 42ms
+[00:38:25.033] Browser ERROR   ./components/section3/browser-states.tsx:44:17
+Parsing ecmascript source code failed
+  42 |                   {/* <span className="text-white text-xs font-bold">{browser.name.charAt(0)}</span> */}
+  43 |                   <image
+> 44 |                 </div>
+     |                 ^
+  45 |                 <span className="text-sm sm:text-base font-medium truncate">{browser.name}</span>
+  46 |               </div>
+  47 |               <div className="flex items-center gap-2 sm:gap-4 ml-10 sm:ml-0">
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:38:25.033] Browser ERROR   ./components/section3/browser-states.tsx:44:18
+Parsing ecmascript source code failed
+  42 |                   {/* <span className="text-white text-xs font-bold">{browser.name.charAt(0)}</span> */}
+  43 |                   <image
+> 44 |                 </div>
+     |                  ^^^^^
+  45 |                 <span className="text-sm sm:text-base font-medium truncate">{browser.name}</span>
+  46 |               </div>
+  47 |               <div className="flex items-center gap-2 sm:gap-4 ml-10 sm:ml-0">
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:38:28.002] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:38:30.048] Browser ERROR   The tag <%s> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter. image
+[00:38:30.048] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <SegmentViewNode type="page" pagePath="page.tsx">
+      <SegmentTrieNode>
+      <Home>
+        <div className="ml-2 mr-2">
+          <SidebarTrigger>
+          <div>
+          <div>
+          <div>
+          <div className="grid xl:gr...">
+            <div className="xl:col-spa...">
+              <BrowserStates>
+                <Card className="w-full h-full">
+                  <div data-slot="card" className="bg-card te...">
+                    <CardHeader>
+                    <CardContent>
+                      <div data-slot="card-content" className="px-6">
+                        <div className="space-y-3 ...">
+                          <div className="flex flex-...">
+                            <div className="flex items...">
+                              <div className="w-8 h-8 sm..." style={{...}}>
++                               <image>
+-                               <img>
+                              ...
+                            ...
+                          ...
+            ...
+          ...
+    ...
+
+[00:38:30.048] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:30.048] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:30.048] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:30.048] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:30.048] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:30.048] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:30.048] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:30.048] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:30.048] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:30.048] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:30.048] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:30.048] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:30.716] Server  LOG      ✓ Compiled in 36ms
+[00:38:31.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:31.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:31.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:31.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:31.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:31.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:31.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:31.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:31.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:31.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:31.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:31.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:33.932] Server  LOG      ✓ Compiled in 34ms
+[00:38:35.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:35.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:35.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:35.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:35.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:35.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:35.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:35.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:35.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:35.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:35.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:35.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:38.009] Server  LOG      ✓ Compiled in 35ms
+[00:38:39.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:39.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:39.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:39.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:39.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:39.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:39.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:39.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:39.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:39.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:39.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:39.038] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:39.038] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
+
+If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true sr sr true sr
+[00:38:39.164] Server  LOG      ✓ Compiled in 34ms
+[00:38:40.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:40.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:40.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:40.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:40.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:40.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:40.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:40.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:40.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:40.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:40.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:40.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:40.042] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
+
+If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true src src true src
+[00:38:41.940] Server  LOG      ✓ Compiled in 34ms
+[00:38:43.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:43.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:43.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:43.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:43.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:43.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:43.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:43.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:43.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:43.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:43.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:43.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:46.093] Server  LOG      ✓ Compiled in 33ms
+[00:38:47.030] Browser ERROR   ./components/section3/browser-states.tsx:44:17
+Parsing ecmascript source code failed
+  42 |                   {/* <span className="text-white text-xs font-bold">{browser.name.charAt(0)}</span> */}
+  43 |                   <image
+> 44 |                 </div>
+     |                 ^
+  45 |                 <span className="text-sm sm:text-base font-medium truncate">{browser.name}</span>
+  46 |               </div>
+  47 |               <div className="flex items-center gap-2 sm:gap-4 ml-10 sm:ml-0">
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:38:47.030] Browser ERROR   ./components/section3/browser-states.tsx:44:18
+Parsing ecmascript source code failed
+  42 |                   {/* <span className="text-white text-xs font-bold">{browser.name.charAt(0)}</span> */}
+  43 |                   <image
+> 44 |                 </div>
+     |                  ^^^^^
+  45 |                 <span className="text-sm sm:text-base font-medium truncate">{browser.name}</span>
+  46 |               </div>
+  47 |               <div className="flex items-center gap-2 sm:gap-4 ml-10 sm:ml-0">
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:38:48.386] Server  LOG      ✓ Compiled in 38ms
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:49.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:54.150] Server  LOG      ✓ Compiled in 35ms
+[00:38:55.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:55.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:55.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:55.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:55.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:55.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:55.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:55.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:55.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:55.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:55.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:38:55.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:00.965] Server  LOG      ✓ Compiled in 35ms
+[00:40:02.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:02.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:02.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:02.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:02.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:02.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:02.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:02.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:02.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:02.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:02.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:02.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:07.592] Server  LOG      ✓ Compiled in 42ms
+[00:40:08.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:08.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:08.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:08.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:08.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:08.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:08.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:08.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:08.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:08.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:08.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:08.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:29.488] Server  LOG      ✓ Compiled in 791ms
+[00:40:29.930] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/hero.png" "received" null
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:30.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:40.179] Server  LOG      ✓ Compiled in 46ms
+[00:40:41.040] Browser ERROR   uncaughtError: Error: Image with src "/hero.png" is missing required "width" property.
+[00:40:52.463] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:40:52.783] Server  LOG      ✓ Compiled in 40ms
+[00:40:53.221] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/hero.png" "received" null
+[00:40:55.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:55.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:55.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:55.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:55.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:55.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:55.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:55.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:55.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:55.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:55.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:40:55.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:40.934] Server  LOG      ✓ Compiled in 171ms
+[00:41:41.106] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/banner.jpg" "received" null
+[00:41:42.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:42.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:42.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:42.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:42.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:42.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:42.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:42.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:42.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:42.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:42.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:42.044] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:49.639] Server  LOG      ✓ Compiled in 37ms
+[00:41:50.036] Browser ERROR   uncaughtError: Error: Image with src "/banner.jpg" is missing required "width" property.
+[00:41:54.639] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:41:54.946] Server  LOG      ✓ Compiled in 33ms
+[00:41:55.141] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:55.142] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:55.142] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:55.142] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:55.142] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:55.142] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:55.142] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:55.142] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:55.142] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:55.142] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:55.142] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:55.142] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:55.331] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/banner.jpg" "received" null
+[00:41:57.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:57.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:57.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:57.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:57.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:57.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:57.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:57.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:57.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:57.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:57.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:57.039] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:57.039] Browser WARN    Image with src "/banner.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:41:58.359] Server  LOG      ✓ Compiled in 40ms
+[00:41:58.484] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/hero.png" "received" null
+[00:41:59.032] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:59.032] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:59.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:59.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:59.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:59.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:59.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:59.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:59.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:59.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:59.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:41:59.033] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:51.742] Server  LOG      ✓ Compiled in 41ms
+[00:42:51.865] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/{" "received" null
+[00:42:52.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:52.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:52.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:52.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:52.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:52.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:52.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:52.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:52.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:52.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:52.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:52.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:54.216] Server  LOG      ✓ Compiled in 32ms
+[00:42:54.496] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/" "received" null
+[00:42:55.045] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:55.045] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:55.045] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:55.045] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:55.045] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:55.045] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:55.045] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:55.045] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:55.045] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:55.045] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:55.045] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:42:55.045] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:43:00.344] Server  LOG      ✓ Compiled in 39ms
+[00:43:01.046] Browser ERROR   ./components/section3/browser-states.tsx:46:23
+Parsing ecmascript source code failed
+  44 |                    <Image 
+  45 |                       src=
+> 46 |                       alt="Hero Image"
+     |                       ^^^
+  47 |                       width={500}
+  48 |                       height={300}
+  49 |                     />
+
+Expected '</', got 'alt'
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:43:02.042] Browser ERROR   ./components/section3/browser-states.tsx:46:23
+Parsing ecmascript source code failed
+  44 |                    <Image 
+  45 |                       src={}
+> 46 |                       alt="Hero Image"
+     |                       ^^^
+  47 |                       width={500}
+  48 |                       height={300}
+  49 |                     />
+
+Expected '</', got 'alt'
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:43:09.045] Browser ERROR   uncaughtError: ReferenceError: br is not defined
+[00:43:09.877] Server  LOG      ✓ Compiled in 37ms
+[00:43:10.033] Browser ERROR   ./components/section3/browser-states.tsx:45:36
+Parsing ecmascript source code failed
+  43 |                   {/* <span className="text-white text-xs font-bold">{browser.name.charAt(0)}</span> */}
+  44 |                    <Image 
+> 45 |                       src={browser.}
+     |                                    ^
+  46 |                       alt="Hero Image"
+  47 |                       width={500}
+  48 |                       height={300}
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:43:11.506] Server  LOG      ✓ Compiled in 40ms
+[00:43:11.511] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:43:11.765] Server  ERROR   C:\Users\Chetabist\OneDrive\Desktop\NepseProject\my-app2\.next\dev\server\chunks\ssr\5e9cd_next_a156ec66._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:43:11.767] Server  ERROR   TypeError: Invalid URL
+[00:43:11.783] Server  ERROR   C:\Users\Chetabist\OneDrive\Desktop\NepseProject\my-app2\.next\dev\server\chunks\ssr\5e9cd_next_a156ec66._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:43:11.784] Server  ERROR    ⨯ Error: Failed to parse src "Google Chrome" on `next/image`, if using relative image it must start with a leading slash "/" or be an absolute URL (http:// or https://)
+[00:43:13.045] Browser ERROR   {"message":"Failed to construct 'URL': Invalid URL"}
+[00:43:13.045] Browser ERROR   {"message":"Failed to construct 'URL': Invalid URL"}
+[00:43:13.045] Browser ERROR   uncaughtError: Error: Failed to parse src "Google Chrome" on `next/image`, if using relative image it must start with a leading slash "/" or be an absolute URL (http:// or https://)
+[00:43:27.023] Server  ERROR   C:\Users\Chetabist\OneDrive\Desktop\NepseProject\my-app2\.next\dev\server\chunks\ssr\5e9cd_next_a156ec66._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:43:27.025] Server  ERROR   TypeError: Invalid URL
+[00:43:27.036] Server  ERROR   C:\Users\Chetabist\OneDrive\Desktop\NepseProject\my-app2\.next\dev\server\chunks\ssr\5e9cd_next_a156ec66._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:43:27.038] Server  ERROR    ⨯ Error: Failed to parse src "Google Chrome" on `next/image`, if using relative image it must start with a leading slash "/" or be an absolute URL (http:// or https://)
+[00:43:27.607] Browser ERROR   {"message":"Failed to construct 'URL': Invalid URL"}
+[00:43:27.607] Browser ERROR   {"message":"Failed to construct 'URL': Invalid URL"}
+[00:43:27.607] Browser ERROR   uncaughtError: Error: Failed to parse src "Google Chrome" on `next/image`, if using relative image it must start with a leading slash "/" or be an absolute URL (http:// or https://)
+[00:46:15.350] Server  LOG      ✓ Compiled in 88ms
+[00:46:16.039] Browser ERROR   ./components/section3/browser-states.tsx:45:27
+Parsing ecmascript source code failed
+  43 |                   {/* <span className="text-white text-xs font-bold">{browser.name.charAt(0)}</span> */}
+  44 |                    <Image 
+> 45 |                       src=``
+     |                           ^^
+  46 |                       alt="Hero Image"
+  47 |                       width={500}
+  48 |                       height={300}
+
+Expected '</', got ''
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:46:16.727] Server  LOG      ✓ Compiled in 36ms
+[00:46:17.042] Browser ERROR   ./components/section3/browser-states.tsx:45:27
+Parsing ecmascript source code failed
+  43 |                   {/* <span className="text-white text-xs font-bold">{browser.name.charAt(0)}</span> */}
+  44 |                    <Image 
+> 45 |                       src=`/`
+     |                           ^^^
+  46 |                       alt="Hero Image"
+  47 |                       width={500}
+  48 |                       height={300}
+
+Expected '</', got '/'
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:46:19.727] Server  LOG      ✓ Compiled in 38ms
+[00:46:20.039] Browser ERROR   ./components/section3/browser-states.tsx:46:23
+Parsing ecmascript source code failed
+  44 |                    <Image 
+  45 |                       src=
+> 46 |                       alt="Hero Image"
+     |                       ^^^
+  47 |                       width={500}
+  48 |                       height={300}
+  49 |                     />
+
+Expected '</', got 'alt'
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:46:27.044] Browser ERROR   ./components/section3/browser-states.tsx:47:23
+Parsing ecmascript source code failed
+  45 |                    <Image 
+  46 |                       src=
+> 47 |                       alt="Hero Image"
+     |                       ^^^
+  48 |                       width={500}
+  49 |                       height={300}
+  50 |                     />
+
+Expected '</', got 'alt'
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:46:51.033] Browser ERROR   ./components/section3/browser-states.tsx:48:23
+Parsing ecmascript source code failed
+  46 |                    <Image 
+  47 |                       src=
+> 48 |                       alt="Hero Image"
+     |                       ^^^
+  49 |                       width={500}
+  50 |                       height={300}
+  51 |                     />
+
+Expected '</', got 'alt'
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:46:52.037] Browser ERROR   ./components/section3/browser-states.tsx:49:23
+Parsing ecmascript source code failed
+  47 |                    <Image 
+  48 |                       src=
+> 49 |                       alt="Hero Image"
+     |                       ^^^
+  50 |                       width={500}
+  51 |                       height={300}
+  52 |                     />
+
+Expected '</', got 'alt'
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:46:57.036] Browser ERROR   ./components/section3/browser-states.tsx:49:23
+Parsing ecmascript source code failed
+  47 |                    <Image 
+  48 |                       src=
+> 49 |                       alt="Hero Image"
+     |                       ^^^
+  50 |                       width={500}
+  51 |                       height={300}
+  52 |                     />
+
+Expected '</', got 'alt'
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:46:59.038] Browser ERROR   ./components/section3/browser-states.tsx:49:23
+Parsing ecmascript source code failed
+  47 |                    <Image 
+  48 |                       src=
+> 49 |                       alt="Hero Image"
+     |                       ^^^
+  50 |                       width={500}
+  51 |                       height={300}
+  52 |                     />
+
+Expected '</', got 'alt'
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:47:01.039] Browser ERROR   ./components/section3/browser-states.tsx:49:23
+Parsing ecmascript source code failed
+  47 |                    <Image 
+  48 |                       src=
+> 49 |                       alt="Hero Image"
+     |                       ^^^
+  50 |                       width={500}
+  51 |                       height={300}
+  52 |                     />
+
+Expected '</', got 'alt'
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:47:02.043] Browser ERROR   ./components/section3/browser-states.tsx:49:23
+Parsing ecmascript source code failed
+  47 |                    <Image 
+  48 |                       src=
+> 49 |                       alt="Hero Image"
+     |                       ^^^
+  50 |                       width={500}
+  51 |                       height={300}
+  52 |                     />
+
+Expected '</', got 'alt'
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:47:04.036] Browser ERROR   ./components/section3/browser-states.tsx:49:23
+Parsing ecmascript source code failed
+  47 |                    <Image 
+  48 |                       src=
+> 49 |                       alt="Hero Image"
+     |                       ^^^
+  50 |                       width={500}
+  51 |                       height={300}
+  52 |                     />
+
+Expected '</', got 'alt'
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:47:12.044] Browser ERROR   ./components/section3/browser-states.tsx:49:23
+Parsing ecmascript source code failed
+  47 |                    <Image 
+  48 |                       src=
+> 49 |                       alt="Hero Image"
+     |                       ^^^
+  50 |                       width={500}
+  51 |                       height={300}
+  52 |                     />
+
+Expected '</', got 'alt'
+
+Import trace:
+  Server Component:
+    ./components/section3/browser-states.tsx
+    ./app/page.tsx
+[00:50:40.499] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:50:40.527] Server  LOG      ✓ Compiled in 160ms
+[00:50:41.572] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/safari.png" "received" null
+[00:50:41.579] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/chrome.png" "received" null
+[00:50:41.901] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/firefox.png" "received" null
+[00:50:41.906] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/opera.png" "received" null
+[00:50:42.052] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/ie.png" "received" null
+[00:50:42.211] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/brave.png" "received" null
+[00:50:42.895] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/chrome.png" "received" null
+[00:50:42.899] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/safari.png" "received" null
+[00:50:43.070] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/firefox.png" "received" null
+[00:50:43.332] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/opera.png" "received" null
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:50:44.056] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:24.237] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/chrome.png" "received" null
+[00:51:24.656] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/ie.png" "received" null
+[00:51:24.823] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/opera.png" "received" null
+[00:51:24.833] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/firefox.png" "received" null
+[00:51:24.839] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/safari.png" "received" null
+[00:51:25.029] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/brave.png" "received" null
+[00:51:25.974] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:25.974] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:25.974] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:25.974] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:25.974] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:25.974] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:25.974] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:25.974] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:25.974] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:25.974] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:25.974] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:25.974] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.307] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/chrome.png" "received" null
+[00:51:26.310] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/safari.png" "received" null
+[00:51:26.312] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/firefox.png" "received" null
+[00:51:26.324] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/opera.png" "received" null
+[00:51:26.326] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/ie.png" "received" null
+[00:51:26.329] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/brave.png" "received" null
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.483] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.688] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/firefox.png" "received" null
+[00:51:26.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:26.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:38.232] Server  LOG      ✓ Compiled in 39ms
+[00:51:39.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:39.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:39.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:39.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:39.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:39.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:39.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:39.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:39.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:39.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:39.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:39.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:43.716] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/brave.png" "received" null
+[00:51:43.894] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/ie.png" "received" null
+[00:51:44.070] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/firefox.png" "received" null
+[00:51:44.090] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/safari.png" "received" null
+[00:51:44.276] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/opera.png" "received" null
+[00:51:44.706] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:44.706] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:44.706] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:44.706] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:44.706] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:44.706] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:44.706] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:44.706] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:44.706] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:44.706] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:44.706] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:44.706] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.629] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/safari.png" "received" null
+[00:51:45.631] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/firefox.png" "received" null
+[00:51:45.633] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/opera.png" "received" null
+[00:51:45.642] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/ie.png" "received" null
+[00:51:45.648] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/browsers/brave.png" "received" null
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:51:45.810] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:03.889] Server  LOG      ✓ Compiled in 43ms
+[00:52:04.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:04.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:04.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:04.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:04.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:04.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:04.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:04.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:04.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:04.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:04.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:04.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:31.133] Server  LOG      ✓ Compiled in 37ms
+[00:52:32.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:32.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:32.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:32.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:32.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:32.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:32.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:32.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:32.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:32.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:32.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:32.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:35.823] Server  LOG      ✓ Compiled in 36ms
+[00:52:36.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:36.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:36.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:36.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:36.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:36.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:36.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:36.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:36.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:36.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:36.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:36.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:39.996] Server  LOG      ✓ Compiled in 41ms
+[00:52:41.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:41.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:41.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:41.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:41.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:41.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:41.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:41.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:41.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:41.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:41.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:41.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:44.433] Server  LOG      ✓ Compiled in 32ms
+[00:52:45.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:45.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:45.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:45.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:45.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:45.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:45.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:45.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:45.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:45.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:45.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:45.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:49.124] Server  LOG      ✓ Compiled in 47ms
+[00:52:50.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:50.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:50.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:50.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:50.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:50.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:50.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:50.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:50.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:50.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:50.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:50.042] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:57.301] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/firefox.png" "received" null
+[00:52:57.320] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/ie.png" "received" null
+[00:52:57.762] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:57.762] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:57.762] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:57.762] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:57.762] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:57.762] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:57.762] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:57.762] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:57.762] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:57.762] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:57.762] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:57.762] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:57.762] Browser WARN    Image with src "/opera.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:52:57.927] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/firefox.png" "received" null
+[00:52:57.931] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/ie.png" "received" null
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:52:58.111] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:53:57.082] Server  LOG      ✓ Compiled in 44ms
+[00:53:57.975] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:53:57.975] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:53:57.975] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:53:57.975] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:53:57.975] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:53:57.975] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:53:57.975] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:53:57.975] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:53:57.975] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:53:57.975] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:53:57.975] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:53:57.975] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:22.466] Server  LOG      ✓ Compiled in 36ms
+[00:54:23.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:23.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:23.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:23.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:23.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:23.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:23.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:23.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:23.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:23.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:23.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:23.047] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:25.919] Server  LOG      ✓ Compiled in 38ms
+[00:54:26.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:26.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:26.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:26.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:26.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:26.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:26.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:26.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:26.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:26.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:26.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:26.043] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:29.408] Server  LOG      ✓ Compiled in 53ms
+[00:54:30.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:30.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:30.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:30.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:30.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:30.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:30.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:30.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:30.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:30.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:30.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:30.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:33.588] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/ie.png" "received" null
+[00:54:34.116] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.116] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.116] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.116] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.116] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.116] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.116] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.116] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.116] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.116] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.116] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.116] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.116] Browser WARN    Image with src "/mozilla.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:54:34.116] Browser WARN    Image with src "/opera.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:54:34.331] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/ie.png" "received" null
+[00:54:34.453] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.453] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.453] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.453] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.453] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.453] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.453] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.453] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.453] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.453] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.453] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:34.453] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:43.505] Server  LOG      ✓ Compiled in 36ms
+[00:54:44.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:44.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:44.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:44.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:44.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:44.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:44.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:44.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:44.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:44.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:44.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:44.041] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:49.732] Server  LOG      ✓ Compiled in 39ms
+[00:54:50.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:50.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:50.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:50.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:50.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:50.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:50.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:50.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:50.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:50.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:50.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:50.046] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:53.282] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:53.282] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:53.282] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:53.282] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:53.282] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:53.282] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:53.282] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:53.282] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:53.282] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:53.282] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:53.282] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:53.282] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:54:53.282] Browser WARN    Image with src "/mozilla.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:54:53.282] Browser WARN    Image with src "/opera.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:56:09.309] Server  LOG      ✓ Compiled in 178ms
+[00:56:09.617] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/projects/laravel.png" "received" null
+[00:56:09.618] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/projects/figma.png" "received" null
+[00:56:09.619] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/projects/vue.png" "received" null
+[00:56:09.744] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/projects/react.png" "received" null
+[00:56:09.826] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/projects/bootstrap.png" "received" null
+[00:56:09.925] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/projects/sketch.png" "received" null
+[00:56:10.035] Browser ERROR   React instrumentation encountered an error: %o {}
+[00:56:30.872] Server  LOG      ✓ Compiled in 40ms
+[00:56:36.018] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/projects/bootstrap.png" "received" null
+[00:56:36.374] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:56:36.374] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:56:36.374] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:56:36.374] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:56:36.374] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:56:36.374] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:56:36.374] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:56:36.374] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:56:36.374] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:56:36.374] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:56:36.374] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:56:36.374] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:56:36.374] Browser WARN    Image with src "/mozilla.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:56:36.374] Browser WARN    Image with src "/opera.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:56:36.539] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/projects/react.png" "received" null
+[00:56:36.553] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/projects/vue.png" "received" null
+[00:56:36.568] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/projects/figma.png" "received" null
+[00:56:36.753] Browser WARN    Image with src "/laravel.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:56:36.914] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/projects/sketch.png" "received" null
+[00:56:37.103] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/projects/bootstrap.png" "received" null
+[00:56:37.296] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/projects/figma.png" "received" null
+[00:56:45.080] Server  LOG      ✓ Compiled in 42ms
+[00:57:12.485] Server  LOG      ✓ Compiled in 44ms
+[00:57:16.388] Server  LOG      ✓ Compiled in 34ms
+[00:57:21.370] Server  LOG      ✓ Compiled in 35ms
+[00:57:25.969] Server  LOG      ✓ Compiled in 38ms
+[00:57:32.702] Server  LOG      ✓ Compiled in 35ms
+[00:57:37.433] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/sketch.png" "received" null
+[00:57:37.621] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/bootstrap.png" "received" null
+[00:57:37.626] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/vue.png" "received" null
+[00:57:38.090] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:38.090] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:38.090] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:38.090] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:38.090] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:38.090] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:38.090] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:38.090] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:38.090] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:38.090] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:38.090] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:38.090] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:38.090] Browser WARN    Image with src "/mozilla.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:57:38.090] Browser WARN    Image with src "/opera.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:57:38.090] Browser WARN    Image with src "/laravel.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:57:38.390] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/vue.png" "received" null
+[00:57:38.395] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/bootstrap.png" "received" null
+[00:57:38.397] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/sketch.png" "received" null
+[00:57:44.932] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/vue.png" "received" null
+[00:57:45.307] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:45.307] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:45.307] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:45.307] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:45.307] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:45.307] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:45.307] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:45.307] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:45.307] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:45.307] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:45.307] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:45.307] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:57:45.307] Browser WARN    Image with src "/mozilla.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:57:45.307] Browser WARN    Image with src "/opera.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:57:45.307] Browser WARN    Image with src "/laravel.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:57:45.323] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/bootstrap.png" "received" null
+[00:57:45.329] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/sketch.png" "received" null
+[00:57:45.705] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/vue.png" "received" null
+[00:58:30.284] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/sketch.png" "received" null
+[00:58:30.286] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:58:30.286] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:58:30.286] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:58:30.286] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:58:30.286] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:58:30.286] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:58:30.286] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:58:30.286] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:58:30.286] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:58:30.286] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:58:30.286] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:58:30.286] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[00:58:30.303] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/bootstrap.png" "received" null
+[00:58:30.744] Browser WARN    Image with src "/mozilla.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:58:30.744] Browser WARN    Image with src "/opera.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:58:30.744] Browser WARN    Image with src "/laravel.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:58:30.967] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/bootstrap.png" "received" null
+[00:58:30.974] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/sketch.png" "received" null
+[00:58:31.201] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/sketch.png" "received" null
+[01:01:45.951] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/bootstrap.png" "received" null
+[01:01:46.420] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:01:46.420] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:01:46.420] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:01:46.420] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:01:46.420] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:01:46.420] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:01:46.420] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:01:46.420] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:01:46.420] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:01:46.420] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:01:46.420] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:01:46.420] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:01:46.420] Browser WARN    Image with src "/mozilla.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:01:46.420] Browser WARN    Image with src "/opera.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:01:46.420] Browser WARN    Image with src "/laravel.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:01:46.621] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/bootstrap.png" "received" null
+[01:02:18.761] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:02:18.761] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:02:18.761] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:02:18.761] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:02:18.761] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:02:18.761] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:02:18.761] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:02:18.761] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:02:18.761] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:02:18.761] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:02:18.761] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:02:18.761] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:02:18.761] Browser WARN    Image with src "/mozilla.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:02:18.761] Browser WARN    Image with src "/opera.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:02:18.761] Browser WARN    Image with src "/laravel.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:02:18.761] Browser WARN    Image with src "/bootstrap.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:05:21.857] Server  LOG      ✓ Compiled in 165ms
+[01:05:33.113] Server  LOG      ✓ Compiled in 46ms
+[01:05:38.227] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:38.227] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:38.227] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:38.227] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:38.227] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:38.227] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:38.227] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:38.227] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:38.227] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:38.227] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:38.227] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:38.227] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:38.227] Browser WARN    Image with src "/mozilla.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:05:38.227] Browser WARN    Image with src "/opera.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:05:38.227] Browser WARN    Image with src "/laravel.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:05:38.227] Browser WARN    Image with src "/bootstrap.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:05:47.464] Server  LOG      ✓ Compiled in 44ms
+[01:05:52.193] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:52.193] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:52.193] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:52.193] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:52.193] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:52.193] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:52.193] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:52.193] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:52.193] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:52.193] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:52.193] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:52.193] Browser WARN    The width(36) and height(36) are both fixed numbers,
+       maybe you don't need to use a ResponsiveContainer.
+[01:05:52.193] Browser WARN    Image with src "/mozilla.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:05:52.193] Browser WARN    Image with src "/opera.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:05:52.193] Browser WARN    Image with src "/laravel.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:05:52.193] Browser WARN    Image with src "/bootstrap.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:06:00.648] Server  LOG      ✓ Compiled in 57ms
