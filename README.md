@@ -30,7 +30,7 @@ npm run dev
 pnpm dev
 ```
 
-Open `http://localhost:3000` in your browser.
+Open `https://trading-dashboard-vert.vercel.app/` in your browser.
 
 ---
 
